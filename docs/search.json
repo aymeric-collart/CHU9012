@@ -53,6 +53,55 @@
     "href": "index.html#course-description",
     "title": "Introduction to Language Questionnaires",
     "section": "📋 Course Description",
-    "text": "📋 Course Description\nThis course introduces the fundamentals of online language questionnaires with an emphasis on hands-on practice. After discussing ethic issues in linguistic research, the course will be divided into three parts:\n\nFundamental concepts and practices in language questionnaires.\nSet-up of a web-based questionnaire (using PCIbex).\nHandling, analysis, and visualization of the results (using R).\n\nBy the end of the course, students are expected to acquire the basic knowledge of questionnaire design concepts and the capacity to design and run their own language questionnaire.\n\n\n🚀 Quick Links\n\n\n\n\n\n\n\n\n📖 Syllabus\n\n\n\nFull course schedule, reading list, and grading policies.\nGo to Syllabus\n\n\n\n\n\n\n\n\n\n\n💻 PCIbex\n\n\n\nWe use PCIbex for designing web-based experiments.\nLaunch PCIbex\n\n\n\n\n\n\n\n\n\n\n📊 R & RStudio\n\n\n\nDownload the software needed for Part 3 of the course.\nGet R Get RStudio\n\n\n\n\n\n\n\n👤 Instructor\nAymeric Collart (理克) Department of Chinese, NTNU\nEmail provided in class"
+    "text": "📋 Course Description\nThis course introduces the fundamentals of online language questionnaires with an emphasis on hands-on practice. After discussing ethic issues in linguistic research, the course will be divided into three parts:\n\nFundamental concepts and practices in language questionnaires.\nSet-up of a web-based questionnaire (using PCIbex).\nHandling, analysis, and visualization of the results (using R).\n\nBy the end of the course, students are expected to acquire the basic knowledge of questionnaire design concepts and the capacity to design and run their own language questionnaire."
+  },
+  {
+    "objectID": "index.html#news-updates",
+    "href": "index.html#news-updates",
+    "title": "Introduction to Language Questionnaires",
+    "section": "📢 News & Updates",
+    "text": "📢 News & Updates\n\n\n\n\n\n\n\nNews 2\n\n\n\nMaterials\n\nWeek 1\n\n\n\nThe slides for stall R and RStudio.\n\n\n\nFeb 20, 2026\n\n\n\n\n\n\n\n\n\n\nNews 2\n\n\n\nMaterials\n\nWeek 1\n\n\n\nThe slides for stall R and RStudio.\n\n\n\nFeb 20, 2026\n\n\n\n\n\n\n\n\n\n\nWeek 1 Materials Posted\n\n\n\nMaterials\n\nWeek 1\n\n\n\nThe slides for Week 1 are now available. Please remember to install R and RStudio.\n\n\n\nFeb 18, 2026\n\n\n\n\n\n\n\n\n\n\nWeek 1 Materials Posted\n\n\n\nMaterials\n\nWeek 1\n\n\n\nThe slides for Week 1 are now available. Please remember to install R and RStudio.\n\n\n\nFeb 18, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Introduction to Language Questionnaires",
+    "section": "🚀 Quick Links",
+    "text": "🚀 Quick Links\n\n\n\n\n\n\n\n\n📖 Syllabus\n\n\n\nFull course schedule, reading list, and grading policies.\nGo to Syllabus\n\n\n\n\n\n\n\n\n\n\n💻 PCIbex\n\n\n\nWe use PCIbex for designing web-based experiments.\nLaunch PCIbex\n\n\n\n\n\n\n\n\n\n\n📊 R & RStudio\n\n\n\nDownload the software needed for Part 3 of the course.\nGet R Get RStudio"
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Introduction to Language Questionnaires",
+    "section": "👤 Instructor",
+    "text": "👤 Instructor\nAymeric Collart (理克) Department of Chinese, NTNU\nEmail provided in class"
+  },
+  {
+    "objectID": "posts/news2.html",
+    "href": "posts/news2.html",
+    "title": "News 2",
+    "section": "",
+    "text": "The slides for Week 1 are now available on Moodle.\n\nTo-Do for Next Week:\n\nDownload R.\nDownload RStudio.\nRead the syllabus."
+  },
+  {
+    "objectID": "posts/CopyOfweek1_news.html",
+    "href": "posts/CopyOfweek1_news.html",
+    "title": "Week 1 Materials Posted",
+    "section": "",
+    "text": "The slides for Week 1 are now available on Moodle.\n\nTo-Do for Next Week:\n\nDownload R.\nDownload RStudio.\nRead the syllabus."
+  },
+  {
+    "objectID": "posts/week1_news.html",
+    "href": "posts/week1_news.html",
+    "title": "Week 1 Materials Posted",
+    "section": "",
+    "text": "The slides for Week 1 are now available on Moodle.\n\nTo-Do for Next Week:\n\nDownload R.\nDownload RStudio.\nRead the syllabus."
+  },
+  {
+    "objectID": "posts/CopyOfnews2.html",
+    "href": "posts/CopyOfnews2.html",
+    "title": "News 2",
+    "section": "",
+    "text": "The slides for Week 1 are now available on Moodle.\n\nTo-Do for Next Week:\n\nDownload R.\nDownload RStudio.\nRead the syllabus."
   }
 ]

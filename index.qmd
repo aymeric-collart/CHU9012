@@ -1,6 +1,18 @@
 ---
 title: "Introduction to Language Questionnaires"
 subtitle: "CHU9012 | National Taiwan Normal University"
+listing:
+  id: news-listing
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  image-height: 150px
+  page-size: 3
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, description, categories]
 ---
 
 ## Welcome
@@ -24,7 +36,14 @@ By the end of the course, students are expected to acquire the basic knowledge o
 
 ---
 
-### 🚀 Quick Links
+## 📢 News & Updates
+
+::: {#news-listing}
+:::
+
+---
+
+## 🚀 Quick Links
 
 ::: {.grid}
 
@@ -59,7 +78,7 @@ Download the software needed for Part 3 of the course.
 
 ---
 
-### 👤 Instructor
+## 👤 Instructor
 
 **Aymeric Collart (理克)** Department of Chinese, NTNU  
 *Email provided in class*
