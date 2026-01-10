@@ -19,9 +19,9 @@ listing:
 
 Welcome to the course website for **CHU9012: Language Questionnaires**. 
 
-**Instructor:** Aymeric Collart (理克)
-**Department:** Department of Chinese, NTNU
-**Credits:** 2
+**Instructor:** Aymeric Collart (理克)<br>
+**Department:** Department of Chinese, NTNU <br>
+**Credits:** 2 <br>
 **Prerequisites:** None
 
 ## 📋 Course Description

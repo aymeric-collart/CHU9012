@@ -1,0 +1,6 @@
+---
+title: "Launch of the website"
+date: 2026-01-10
+categories: [Website announcment]
+description: "The website for the course has just been created. Stay tuned for further development!"
+---

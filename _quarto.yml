@@ -13,6 +13,7 @@ website:
   # Top Navigation Bar
   navbar:
     background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
@@ -23,6 +24,9 @@ website:
       - text: "Assignments"
         menu:
           - assignments/hw1.qmd
+    right:
+      - icon: github
+        href: https://github.com/aymeric-collart/CHU9012
 
   # Side Navigation Bar (Context aware)
   sidebar:
@@ -35,7 +39,8 @@ website:
 
 format:
   html:
-    theme: cosmo       # The theme used by EDS 240 (or very similar)
+    theme:
+      light: cosmo   # The theme for Light Mode
+      dark: darkly   # The theme for Dark Mode (you can also use 'superhero' or 'cyborg')
     toc: true
-    toc-depth: 2
     css: styles.css
