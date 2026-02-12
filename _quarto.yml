@@ -30,7 +30,7 @@ website:
 
   # Side Navigation Bar
   sidebar:
-    - title: "Course Materials"
+    - section: "Course Materials"
       contents:
         - text: "Week 1: Introduction"
           href: course-materials/week1.qmd

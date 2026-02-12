@@ -46,11 +46,7 @@
     "href": "course-materials/week5.html",
     "title": "Week 5 - Questionnaire items",
     "section": "",
-    "text": "[To complete later]",
-    "crumbs": [
-      "Home",
-      "Week 5: Questionnaire items"
-    ]
+    "text": "[To complete later]"
   },
   {
     "objectID": "course-materials/week7.html",
@@ -64,7 +60,11 @@
     "href": "course-materials/week2.html",
     "title": "Week 2 - What is language, and ethics in linguistic and experimental research",
     "section": "",
-    "text": "We will talk about ethics during this week.\n[To complete later]"
+    "text": "We will talk about ethics during this week.\n[To complete later]",
+    "crumbs": [
+      "Home",
+      "Week 2: Linguistic research and ethics"
+    ]
   },
   {
     "objectID": "course-materials/week8.html",
@@ -127,29 +127,25 @@
     "href": "course-materials/week1.html",
     "title": "Week 1",
     "section": "",
-    "text": "This is the introductory week."
+    "text": "This is the introductory week.",
+    "crumbs": [
+      "Home",
+      "Week 1: Introduction"
+    ]
   },
   {
     "objectID": "course-materials/week3.html",
     "href": "course-materials/week3.html",
     "title": "Week 3 - Fundamentals of questionnaire design",
     "section": "",
-    "text": "[To complete later]",
-    "crumbs": [
-      "Home",
-      "Week 3: Fundamentals of questionnaire design"
-    ]
+    "text": "[To complete later]"
   },
   {
     "objectID": "course-materials/week4.html",
     "href": "course-materials/week4.html",
     "title": "Week 4 - Paradigms and tools",
     "section": "",
-    "text": "[To complete later]",
-    "crumbs": [
-      "Home",
-      "Week 4: Paradigms and tools"
-    ]
+    "text": "[To complete later]"
   },
   {
     "objectID": "course-materials/week12.html",
