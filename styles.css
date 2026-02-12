@@ -96,8 +96,10 @@ a:hover {
     border-bottom: 2px solid #3498db;
 }
 
-/* Make sidebar section headers (Part 1, Part 2, etc.) bold */
-.sidebar-navigation .sidebar-section-item > .sidebar-section-title {
-  font-weight: 700; /* 700 is standard bold */
-  color: #000;      /* Optional: makes them darker black */
+/* FORCE sidebar section headers (Part 1, Part 2, etc.) to be bold */
+/* We removed 'div' because these are actually 'li' elements */
+.sidebar-item-section > .sidebar-item-container > .sidebar-item-text {
+  font-weight: 900 !important; /* 900 is extra bold */
+  color: #000000 !important;
+  font-size: 1.05em;           /* Slightly larger to stand out */
 }
