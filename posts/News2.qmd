@@ -1,0 +1,6 @@
+---
+title: "Week 1 & Week 2"
+date: 2026-02-13
+categories: [Website announcment]
+description: "The first two weeks of the course have been updated!"
+---

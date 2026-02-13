@@ -2,5 +2,46 @@
 title: "Week 1 - Introductory week"
 format: html
 ---
+---
+title: "Week 1: Introduction"
+subtitle: "CHU9012 | National Taiwan Normal University"
+---
 
-This is the introductory week, where I will explain the goals and content of the course, the syllabus and the grading system.
+## Welcome to the course!
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8}
+This is the **introductory week**. We will take the time to get to know each other and set the stage for the semester.
+
+In this session, I will explain:
+
+1.  The **goals and content** of the course.
+2.  The **syllabus** and weekly schedule.
+3.  The **grading system** and expectations for the group project.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.callout-tip icon="false"}
+## 📄 Key Document
+The syllabus contains all the details about the grading policy and schedule.
+
+<a href="../syllabus.html" class="btn btn-primary w-100 mt-2">
+  <i class="bi bi-file-earmark-text"></i> Read the Syllabus
+</a>
+:::
+:::
+
+:::
+
+<hr>
+
+### 🛠️ To-Do for next week
+
+::: {.callout-note}
+## Checklist
+
+-   [ ] **Review the Syllabus:** Make sure you understand the attendance and grading policies.
+-   [ ] **Join Moodle:** Ensure you have access to the course Moodle page.
+-   [ ] **Software Check:** Make sure that you can download and install the softwares on your laptop. You will need to bring your laptop to the class starting from Week 5.
+:::

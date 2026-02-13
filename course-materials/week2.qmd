@@ -1,16 +1,59 @@
 ---
-title: "Week 2 - What is language, and ethics in linguistic and experimental research"
-format: html
+title: "Week 2: What is language, and ethics in linguistic research"
+subtitle: "CHU9012 | National Taiwan Normal University"
+editor: source
 ---
 
-During Week 2, we will talk about several topics in more details:
+## Overview
 
-- What is language, and <i>where</i> is language? What are the consequences of the answers of these questions when doing linguistic survey?
+During Week 2, we will talk about ethics in linguistic research, covering the following topics:
 
-- What are the ethical (another similar word for 'ethical': <i>respectful</i>) practices to take into consideration when doing linguistic survey (and any other kind of survey)? We will look at real examples that I encountered in the past few years.
+::: {.panel-tabset}
 
-- What are the institutional structures for ethic research in Taiwan? Especially, we will focus on the <b>Center for Taiwan Academic Research Ethics Education</b> (in Chinese: 臺灣學術倫理教育資源中心) provided by the Ministry of Education, and I will show you why you should care about it even as undergraduate and graduate students.
+## 1. Outstanding questions
+**What is language, and *where* is language?**
 
-Link to the <b>Center for Taiwan Academic Research Ethics Education 臺灣學術倫理教育資源中心: </b> <a href="https://ethics.moe.edu.tw/" target="_blank">https://ethics.moe.edu.tw/</a>
+- What are the consequences of these answers when designing a linguistic survey?
+- How do our assumptions about "where language lives" change how we ask questions?
 
-Assignment for next week: For students enrolled in the program (and if you have time): Take the mandatory online ethic classes and pass the examination (about 6 hours). No need to upload the certificate of results. I will provide a sheet on Moodle, and you will just need to check next to your name.
+## 2. Ethical Practices
+**What are ethical (or *respectful*) practices?**
+
+- We will define what it means to be ethical in linguistic surveys (and any other kind of survey).
+- I will share **real examples** of ethical dilemmas and situations that I encountered in the past few years, and how to avoid such problems.
+
+## 3. Institutions
+**What are the institutional structures for research ethics in Taiwan?**
+
+- We will focus on the **Center for Taiwan Academic Research Ethics Education** (in Chinese: 臺灣學術倫理教育資源中心) provided by the Ministry of Education.
+- I will show you why you should care about these regulations, even as undergraduate and graduate students.
+
+:::
+
+<br>
+<hr>
+<br>
+
+### 🔗 Useful Resources
+
+::: {.text-center}
+<a href="https://ethics.moe.edu.tw/" class="btn btn-primary btn-lg" target="_blank">
+  <i class="bi bi-box-arrow-up-right"></i> Center for Taiwan Academic Research Ethics Education
+</a>
+<p class="text-muted small mt-2">(臺灣學術倫理教育資源中心)</p>
+:::
+
+<br>
+<hr>
+
+::: {.callout-important icon="true"}
+## 📝 Assignment for Next Week
+
+**For students enrolled in the program (and if you have time):**
+
+Please take the **mandatory online ethics classes** and pass the examination.
+*(6 hours of training)*
+
+-   **Submission:** You do **not** need to upload the certificate of results.
+-   **Verification:** I will provide a sheet on Moodle; you will just need to check the box next to your name to confirm you have finished.
+:::
