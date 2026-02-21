@@ -1,6 +1,6 @@
 ---
 title: "Syllabus"
-subtitle: "CHU9012: Introduction to Language Questionnaires"
+subtitle: "CHC9012: Introduction to Language Questionnaires"
 sidebar: false
 format:
   html:

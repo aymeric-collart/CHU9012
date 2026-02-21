@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Language Questionnaires"
-subtitle: "CHU9012 | National Taiwan Normal University"
+subtitle: "CHC9012 | National Taiwan Normal University"
 sidebar: false
 listing:
   id: news-listing
@@ -18,7 +18,7 @@ listing:
 
 ## Welcome
 
-Welcome to the course website for **CHU9012: Language Questionnaires**. 
+Welcome to the course website for **CHC9012: Language Questionnaires**. 
 
 **Instructor:** Aymeric Collart (理克)<br>
 **Department:** Department of Chinese, NTNU <br>

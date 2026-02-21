@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "CHU9012"
-  repo-url: https://github.com/aymeric-collart/CHU9012
+  title: "CHC9012"
+  repo-url: https://github.com/aymeric-collart/CHC9012
   repo-actions: [issue]
   page-footer:
     left: "© 2026 Aymeric Collart"
@@ -26,7 +26,7 @@ website:
           - assignments/hw1.qmd
     right:
       - icon: github
-        href: https://github.com/aymeric-collart/CHU9012
+        href: https://github.com/aymeric-collart/CHC9012
         
 # Side Navigation Bar
   sidebar:

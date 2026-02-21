@@ -4,7 +4,7 @@ format: html
 ---
 ---
 title: "Week 1: Introduction"
-subtitle: "CHU9012 | National Taiwan Normal University"
+subtitle: "CHC9012 | National Taiwan Normal University"
 ---
 
 ## Welcome to the course!

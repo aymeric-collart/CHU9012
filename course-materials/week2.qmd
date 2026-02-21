@@ -1,6 +1,6 @@
 ---
 title: "Week 2: What is language, and ethics in linguistic research"
-subtitle: "CHU9012 | National Taiwan Normal University"
+subtitle: "CHC9012 | National Taiwan Normal University"
 editor: source
 ---
 
